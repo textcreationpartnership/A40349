@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two general epistles sent in manuscript to friends of truth by George Fox the younger ; and now printed for their further service.</title>
+            <author>Fox, George, d. 1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40349</idno>
+            <idno type="STC">Wing F2016</idno>
+            <idno type="STC">ESTC R42036</idno>
+            <idno type="EEBO-CITATION">23250580</idno>
+            <idno type="OCLC">ocm 23250580</idno>
+            <idno type="VID">109519</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40349)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109519)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1700:56)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two general epistles sent in manuscript to friends of truth by George Fox the younger ; and now printed for their further service.</title>
+                  <author>Fox, George, d. 1661.</author>
+               </titleStmt>
+               <extent>[2], 5, 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Warwick,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109519:1"/>
+            <pb facs="tcp:109519:1" rendition="simple:additions"/>
+            <p>Two general Epiſtles SENT IN MANVSCRIPT TO Friends of truth, BY <hi>GEORGE FOX</hi> the younger, And now <hi>Printed for their further ſervice.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Warwick</hi> 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:109519:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:109519:2" rendition="simple:additions"/>
+            <head>Two Epiſtles ſent in Manuſcript to Friends, &amp;c.</head>
+            <div type="letter">
+               <head>The Servant of Jeſus Chriſt, and priſoner for the Word of God, ſendeth greeting unto the Flock of God who in this day ſuffer bonds and other tribulations and cru<g ref="char:EOLhyphen"/>elties for the precious Truth, even for obeying the Go<g ref="char:EOLhyphen"/>ſpel of ſalvation, which is the Power of God.</head>
+               <p>OH ye beloved ones, who have valued the eternal Truth above your neareſt and deareſt Relations, Liberties, Eſtates &amp; Lives, and have hazarded and given up all freely in the Cauſe of God, your reward is with you, which is free: Oh ye heirs of eternal life, ye babes of God, born of the Seed Royal, ye children of the promiſe, who are counted for the Seed, the glory and peace of God reſteth up<g ref="char:EOLhyphen"/>on you, and the Arm of my Father is your ſtrength, the Lord our righteouſneſs is his Name, who is your ſtrong Tower, the place of your ſafety: Oh my beloved Friends, my bowels are filled with the ſtreams of Eternal life and love, which run<g ref="char:EOLhyphen"/>neth forth freely unto you, who are highly favoured of God, who are counted worthy to ſuffer for his living eternal truth; bleſſed be you of the Lord my Saviour, happy are you ye chil<g ref="char:EOLhyphen"/>dren of the Moſt High; filled be your bowels with the ſprings of eternal life, and filled be your hearts and mouths with the high praiſes of <hi>Emanuel:</hi> Oh Friends, through faith in the blood of the Lamb do you ſtand, and in it ſhall you overcome and obtain the victory over the Beaſt, falſe Prophet and Dra<g ref="char:EOLhyphen"/>gon,
+<pb n="2" facs="tcp:109519:3"/>whoſe hour this is in the power of darkneſs, which is gi<g ref="char:EOLhyphen"/>ven to them for a moment to try your precious Faith. There<g ref="char:EOLhyphen"/>fore my beloved ones, who know the clefts of the Rock, and the place where the King is found: O retire all thither, and ſolace your ſelves under the banner of his love, remove not away from the ſprings of his ſtrength &amp; virtue which he hath opened unto you, but dwel in his patience, and wait in his Light, in the pure ſtilneſs, til he ariſe and make his enemies his footſtool. Oh Friends, you that cannot act contrary to the wil of <hi>Emanuel,</hi> you that cannot bow down to any other image but the Light of the glorious Goſpel, which is the image of the inviſible God; you that cannot ceaſe from worſhipping him in the ſpirit and truth; you that cannot ceaſe petition<g ref="char:EOLhyphen"/>ing him, and meeting together in his Name, notwithſtanding the Decree of the Rulers, and the raging of the wicked, I feel you in <hi>Daniels</hi> ſpirit, and enjoy you in that power which ſtop<g ref="char:EOLhyphen"/>peth the mouths of the Lyons; you whoſe bodies are caſt into Priſons, Dungeons and Holes, you who are numbred with tranſgreſſors, and are ſeparated from your outward Relati<g ref="char:EOLhyphen"/>ons; you who have given up your Eſtates and Lives and all, or are freely willing ſo to do, if you be called to it; I know the Lord my God is not wanting to you, I know you are filled with his pure peace, power and preſence; I know you have all, and enjoy all that the Lord ſeeth to be good for you, even as I your brother do, who ſuffereth with you; and thus we re<g ref="char:EOLhyphen"/>ceive an hundred fold, even in this time with perſecution, and eternal life in the World to come is ours; faint not: Oh my Brethren and Siſters, in the overcomings of the Power, Love, Virtue, Mercy and Joy of our God which filleth my Veſſel, do I ſalute you all, and am near unto you in the ſpirit of love, rejoicing to hear of your faithfulneſs and courage. Ah my amiable ones, multiplied be your faith and ſtrength in the power of the eternal God, for we are not yet come to the depth of our tryals.</p>
+               <p>Verily it is but a remnant that wil follow the Lamb whi<g ref="char:EOLhyphen"/>therſoever he goeth: Oh ye Virgins who defile not your ſelves with the weaker things, but are waſhed and pure in the chaſt
+<pb n="3" facs="tcp:109519:3" rendition="simple:additions"/>life of the Lamb, and redeemed from the earth by his power, his righteouſneſs is your garment; yea his ſpirit is your cover<g ref="char:EOLhyphen"/>ing, his eye is upon you for good, though the Whore may yet a little while prevail againſt your bodies, though ſhe may yet drink ſome more blood, yet be not diſmayed, ſeeing you know that by which victory ſhall be obtained; and all theſe things ſhall work together for good to you that love the Lord, and not your lives unto the death. Oh ye Babes of God, this day have I long waited and looked for, &amp; of it have I been made to propheſie, and in the Faith, Word and Power of God I further teſtifie, that this day muſt yet be hotter (for a little ſpace) that no droſs may remain among the pure gold, of which the Jewels are to be made up; but my Friends, the Lord our King in whom we have truſted, he ſhall ariſe and work ſuch wonders In the earth, (even in this age) as ſhall aſtoniſh and amaze the Heathen, and cauſe the ears of many that ſhall hear thereof to tingle, and mens hearts ſhall fail them becauſe of thoſe things that they ſhall behold; but as for you who know the word of eternal life, hold that faſt, and look ye not out, nor back (remember <hi>Lots</hi> Wife) neither let in fears, but watch and wait in the eternal counſel of my Father, and he wil miniſter ſtrength proportionable to every ones trial, and be a ſafe hiding-place to the meek.</p>
+               <p>And all you whom the Lord God hath touched with his living Power, and viſited with his eternal truth, and counted worthy, and hath begotten you into the knowledge of his truth in any meaſure, and brought you to believe in the ſame (though you be yet out of bonds) know this my Friends, that this is a day wherein God wil try your faith and love which you have profeſſed in, and to him; yea, this is a day wherein a mighty ſtorm is ariſen, which wil ſhake down the unſound, and the untimely fruit, that ſo the ſound which partakes of the ſap and virtue of the tree, may be clearly made manifeſt; yea this is a day in which the good Huſ<g ref="char:EOLhyphen"/>bandman wil ſeparate the ſeed from the chaff, which he wil ſcat<g ref="char:EOLhyphen"/>ter by his ſearching winds; therefore I beſeech you all (who have any true love unto God, and the way of his holineſs) keep cloſe to the meaſure of his inviſible Life &amp; Power in your own veſſels, that ſo you may retain ſtrength, and he made able to ſtand witneſſes
+<pb n="4" facs="tcp:109519:4"/>for his Name; and I exhort and warn you all, that you ſuffer not your minds to be entangled or encumbered with the cares of this life, leſt thereby the enemy get advantage againſt you, and ſo you loſe your ſtrength. Oh take heed of he Enemies temptati<g ref="char:EOLhyphen"/>ons, if he come unto you, and offer you the things of this life, that may ſeem pleaſing to the creature, and tell you that you ſhall enjoy them if you wil bow unto him, conſent not to him, for if you cannot enjoy them and the preſence and love of God, let them all go, and murmure not, deny not the Lord, let not the fear of the loſs of any viſible thing cauſe yau to act contrary to that which God hath made manifeſt unto you. Let not your lives be dear unto you for the cauſe of God. Oh Friends, this is a day wherein God wil try who they are that love any changea<g ref="char:EOLhyphen"/>ble thing more then himſelf, or who they be that wil defile their conſciences, and deny his Witneſs therein, to ſave their eſtates, liberties and lives, and verily they that ſhall ſo do, heavy plagues, vengeance and judgements ſhall fall upon them, and that ſud<g ref="char:EOLhyphen"/>denly, the mouth of the Lord hath ſpoken i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: But joy, peace and glory everlaſtingly ſhal reſt upon them that ſtand ſtedfaſt in the Fa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th received from God. Therefore dear Hearts, be faithful unto death, and ye ſhall receive the crown of Life. And all you my Friends who have of this Worlds goods, let the love of God ſtil abound in you, and then you wil be conſtrained by it to re<g ref="char:EOLhyphen"/>freſh your poor brethren and ſiſters that ſtand in need this day, and thereby you may take away the cauſe of ſome temptation: which otherwiſe might fall upon them. And oh my Friends, <hi>I</hi> know the love and care of many of you hath been, and yet is exceeding large in this particular, even ſo let it be ſtil continu<g ref="char:EOLhyphen"/>ed, and the Lord ſhall be glorified and honored thereby, and he wil be your exceeding great reward.</p>
+               <p>
+                  <hi>O</hi> Lord my God, thou haſt filled my bowels with thy eternal power, thou haſt filled my heart with gladneſs, and my mouth with praiſes beyond all utterance; alſo thy peace and thy glory reſteth upon me; thou haſt mightily filled me with words and boldneſs; yea, thou haſt ſet me above the fears of death; thou haſt cauſed me to be content with whatſoever thou haſt ſuffered
+<pb n="5" facs="tcp:109519:4" rendition="simple:additions"/>to come upon me; and thou knoweſt I neither fear impriſon<g ref="char:EOLhyphen"/>ment, baniſhment, death, or any other cruelty that is poſſible for man to inflict upon my body; thou knoweſt J neither regard their threatnings, nor the flatteries of the wicked, for my truſt is alone in thee, and thou art my ſtrength and my glory; thou haſt made me to be content to be even what ever thou wouldſt have me: Thou knoweſt I ſeek nothing but thy honor alone; therefore wilt thou honor me before the people, according to thy Word.</p>
+               <p>And now O Lord my God, I beſeech thee keep thy people in this day of tryal and hour of temptation, keep them above the earth, and out of the flatteries of a deceitful tongue, and keep them in contentedneſs with thy pure will in all things: Fill them with boldneſs and valour for thy Name and Truth, that ſo they may be careful for nothing, but to anſwer thy holy requirings; that thou mayeſt have the honor and glory of all, and that thou mayeſt exalt thy truth, and them in it over all.</p>
+               <p>Then ſhall praiſes break forth and be multiplyed unto thee, oh thou King of Saints, oh thou everlaſting Fountain of endleſs life, who is able to expreſs thy mighty and ſtrange acts which thou art doing, and about to do: Oh keep thy people <hi>I</hi> beſeech thee, faithful in their particular meaſures and places; oh that they may underſtand thy outgoing every thing, ſo ſhall not thy work in any be condemned.</p>
+               <closer>
+                  <dateline>From the Gate-Houſe <hi>Palace yard, Weſtminſt.</hi> 
+                     <date>the 17th of the 11th. month 1660.</date>
+                  </dateline>
+                  <signed>
+                     <hi>George Fox</hi> the younger.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="6" facs="tcp:109519:5"/>
+               <head>A <hi>Second</hi> Epiſtle <hi>to Friends,</hi> &amp;c<g ref="char:punc">▪</g>
+               </head>
+               <opener>
+                  <salute>Friends,</salute>
+               </opener>
+               <p>AS for you who are ſufferers this day upon the account of truth, whether in bonds, or out of them, I know and am ſatiſfied that many of you have not need that any man teach you, becauſe you are not onely brought to the knowledge of the Anointing, but it abideth in you, and your delight is wholly to obey the ſame, and whatſoever it Command<g ref="char:EOLhyphen"/>eth you it is your Meat and Drink to do it, becauſe you are born of him from whence it comes, and he dwelleth in you, and you in him, &amp; you know his voice, and are in a Readineſs to obey the ſame; and <hi>I</hi> know ye are taught of him what he requireth of you, ſo you that are come to this ſtate, I know words as to your own parti<g ref="char:EOLhyphen"/>cular add but litle, becauſe you injoy the end of them: Yet <hi>I</hi> know when any thing proceeds from the ſame word and Fountain of Life of which you partake, feed, and drink, that may be of ſer<g ref="char:EOLhyphen"/>vice to others that are not come to ſo high a State, that profeſs the ſame truth, or deſire the knowledge of it, you can with joy, hear the ſame, and are refreſhed; becauſe thereby the work of the Lord which you delight in is carried on: Therefore that which is upon me in the Fear, Power, and Life of God, I ſhall write, and ſend amongſt you that profeſs the truth, as it is in Je<g ref="char:EOLhyphen"/>ſus, that it may reach to you to whom it is of ſervice, that where the witneſs of God is owned, it may ariſe and make manifeſt to each particular, what of that which is here written belongeth un<g ref="char:EOLhyphen"/>to them.</p>
+               <p>Friends, you who are impriſoned for the teſtimony of truth, happie are you that are faithful in your Teſtimony for the Lord: Now this know, that it is them that ſuffer according to the will of God, and Continue in pure obedience thereunto, which are accep<g ref="char:EOLhyphen"/>table unto him (by Jeſus Chriſt) in their Teſtimony: Therefore let the pure dread of the Almighty be lived in, and let there be a a ſure watch (kept by every particular) in the Light, leaſt any
+<pb n="1" facs="tcp:109519:5"/>thing (through the temptation of the Enemy) get up in any of you that is contrary to the Lords pure Light, and you joyn to it, and thereby you, and your Teſtimony come to be defiled, and the Lord diſhonoured; And Friends, this know, that there are ma<g ref="char:EOLhyphen"/>ny temptations which oft-times accompany thoſe that are in bonds for the truth, which are to be watched againſt in the pure Light which makes them manifeſt, or elſe there is a great danger. Now it is upon me to ſpeak ſomething concerning ſomeof them, that you may watch againſt them as your deadly Enemies, (mark) as there is a true joy that ſprings in thoſe that in the true ſimplicity, do ſuffer for the cauſe of God, ſo alſo there is this temptation that ſometime, may be preſented to ſome in bonds, (mark) even to think highly of themſelves, becauſe they are put in priſon for the truth, ye even to think of themſelves (becauſe of their ſufferings) above what they are. Now where this temp<g ref="char:EOLhyphen"/>tation is joyned to, it puffeth ſuch up in the fleſhly falſe joy, and leads out of the fear above the Croſs, and ſo becomes very dan<g ref="char:EOLhyphen"/>gerous unto them, and ſuch become very burdenſome to them that abide in the truth, and ſuffer according to the will of God, therefore where any hath ſuch a temptation, Oh watch againſt it that it prevail not; and where any are ſenſible that ſuch a tempta<g ref="char:EOLhyphen"/>tion hath prevailed, let ſuch ſink down to the pure judgement of the Lord, and wait therein, til through faith and patience, victo<g ref="char:EOLhyphen"/>ry be obtained. And Friends, let the fear and the mighty dread of the Lord God be upon you in receiving of the Creatures, or elſe the ſimplicity in you may ſoon be betrayed. Oh there is a great danger concerning thoſe things, if the pure life which is more then meat, be not continually lived in. Many whoſe hearts are open, not knowing what you (who are in bonds) may want, may bring and offer you much, and ſome may urge things upon you; therefore you had need to ſtand in the pure fear, wiſdom and authority of God (in the ſelf-denial) or elſe thoſe things may ſoon become a ſnare unto you, and ſo fleſhly liberty and eaſe may be Run into, and may grow upon you, whereby the true ſavor and feeling of the living truth may be loſt; therefore keep low and watchful, that ſo you may be pre<g ref="char:EOLhyphen"/>ſerved ſincere to the Lord in his authority ſtanding out of, and denying all ſuperfluity; And you who have but little of this
+<pb n="2" facs="tcp:109519:6"/>worlds goods, who are in ſufferings, and do rather want then a<g ref="char:EOLhyphen"/>abound. Oh Friends, commit your cauſe to God, and let not the enemie on the other hand prevaile in tempting you to look out, or to diſtruſt, and thereby caſt you down, and bring your precious life under, but in the Faith and Patience of the Lamb abide, doing the things that is lawful and aright in the ſight of God, and he will aſſuredly provide for you: Oh do not in any wiſe do evil, that good may come thereof; the woe will be upon them that keep you from providing for your families, and they in the day of Gods judgments (which haſteth) will be found and coun<g ref="char:EOLhyphen"/>ted worſe then infidels, and not you, who are willing to labour for your families, if you could have your liberty without ſinning againſt the Lord; and all Friends be watchful one over ano<g ref="char:EOLhyphen"/>ther, in the true love which thinks no evil, and live in it, and bear one with another, and be ſubject to the power in one ano<g ref="char:EOLhyphen"/>ther, and that will bring you to know how to abound, and how to ſuffer want; and it will conſtrain you to be helpful one to ano<g ref="char:EOLhyphen"/>ther, both in and out of bonds; yea it will bring you into conten<g ref="char:EOLhyphen"/>tedneſs in every condition. Oh dear hearts: I know there are many of you that are out of Priſon, whoſe ſufferings this day are as great, and ſome far greater then thoſe that are in, but well wil it be with you, who are faithful and obedient in your places and meaſures, whether in bonds, or out; and ill will it be with the un<g ref="char:EOLhyphen"/>faithful, and diſobedient where ever they be; therefore keep to the Lords living eternal power, that you may be carried through all your tryals within, and without, in your ſeveral places. For my Friends, the day will yet be very hot, yea it muſt ſo be, that that which can abide the fire, may be made manifeſt clearly, and remain in its purity, and that the droſs which hath been mix<g ref="char:EOLhyphen"/>ed with the pure, may alſo be ſeparated from it, and be made ma<g ref="char:EOLhyphen"/>nifeſt to be but droſs; and you that are in bonds, take heed of looking out, at time, or place, or at the cruelty of the Enemie; poor hearts, <hi>I</hi> know ſome of you ſuffer exceeding much hardſhip this day in your Teſtimony for the Lord; yet I know the preſence of my Father is freely with you, who in the innocency, and ſim<g ref="char:EOLhyphen"/>plicity of your hearts, gives up to his pure will in all things. Oh Friends, take heed that none of you yeild to uphold any wicked Cuſtome, or oppreſſion; which many of you may be tempted to in
+<pb n="3" facs="tcp:109519:6"/>Priſons, &amp; may ſuffer much for denying them, but better is it ſo to do, then to offend the Lord, who is the reward of the faithful: Oh Friends, this is a day the Lord hath mightily diſcovered the Beaſt, his Power, Names, and horns; And this is a day where<g ref="char:EOLhyphen"/>in the Lord is Calling, and Leading his People to bear a clear Teſtimony againſt all thoſe things; Therefore take heed to your ſelves, that you give not your Power to the Beaſt, by bowing to any of his Names. Fear not his Horns, Receive not his Mark; though he ſuffer you not to buy, nor ſell. Oh Friends watch, for you will be tempted; and all both bond &amp; free, whoſe Names are not written in the Lamb, Book of Life, will be compelled, and all that follow the Lamb this day muſt come through great tribulation, for he is oppoſing the Beaſt, and breaking through his Power, Horns, Names, and Markes; And behold there is great Power and authority given to the Beaſt; that he may try the Inhabitants of the Earth; and that the Virgins that follow the Lamb, who love not their Lives to the death, may be clearly made manifeſt; and ſeparated from all the dirtie profeſſors of his Name, that will bow and fall under the power of the Beaſt, to ſave themſelves; and ſay in their heares, who is able to make war with them; and verily great will be the number of ſuch; Therefore dear hearts ſtand ſtedfaſt, and watch unto prayer, and wait in the power that is endleſs, that your underſtandings may be kept open and clear, that you may ſee all the ſnares of the Ene<g ref="char:EOLhyphen"/>mie; and that you may feel Power to reſiſt in the time of need: For my Friends this know, that thoſe that ſtart not a ſide but fol<g ref="char:EOLhyphen"/>loweth the Lamb whitherſoever he goeth, many of them have greater things to paſs through, and to ſuffer, then an inpriſon<g ref="char:EOLhyphen"/>ment; Therefore wait that you may be prepared for whatſoever the Lord may ſuffer to come upon you, for the tryal of your faith: Oh take heed of Dirty ingagements, Bonds, or Tyes; better were it for you that have Eſtates to looſe them, or for you or others to ſuffer Impriſonment Baniſhment Death, or any other cruelty, (if the will of God be ſuch as to give your adverſa<g ref="char:EOLhyphen"/>ries ſo much power) then to bring your ſelves <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto bon<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> who in any meaſure are made free by the Lord, Fri<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nds, the Children of the Promiſe are counted for the ſeed, and the ſeed royal is free, and is not to be compelled to any thing by man, but what it
+<pb n="4" facs="tcp:109519:7"/>declares to (and does among) the Sons of Men to ſtand (and to be done) in its own freedom and liberty, and this ſeed cannot beg its freedom and liberty of any mortal, not ne<g ref="char:EOLhyphen"/>ver did, neither can it, nor give its power to the Beaſt, but through ſuffering it breaks down, and through the Beaſts compelling pow<g ref="char:EOLhyphen"/>er, and ſo by its own power in the Father it conquereth its Ene<g ref="char:EOLhyphen"/>mies, and works it ſelf into the dominion over all, &amp; all power muſt bow down to it, and ſerve and obey it; therefore all you that know the truth (the ſeed Royal) feele his power that Redeems out of all Earthly things, that ſo you may be willing to ſuffer for him, with whom ye deſire to reign, and be willing to bear the Croſs, and deſpiſe the ſhame; Then ſhall you obtain the Crown which is immortal; but whoſoever draws back, my ſoule ſhall have no pleaſure in him, ſaith the Lord God; Therefore my Friends ſtand out of all mortals, in the immortal ſeed, and conſent not, neither bow to, or joyn to (or do) any thing that the Life of the ſeed drawes or leads not to (what ever you may ſee others) (whom you have eſteemed to be before you in the truth Conſent to) yet do nothing (to ſave your ſelves) by imitation without feel<g ref="char:EOLhyphen"/>ing the Life to lead you: but whereunto every one of you hath attained, in the knowledge of the life of God, walk you by the ſame rule, and minde the ſame thing, knowing this, that there are firſt, that ſhall be laſt, and there are laſt, that ſhall be firſt; ſo the Lord God keepe you in his authority, Life and Wiſdom to the end, Amen.</p>
+               <closer>
+                  <signed>
+                     <hi>I</hi> am your endeared Friend in the power of the Righteouſneſs, of the Lamb, in which I war againſt his Enemies, &amp; not with carnal weapons; therefore I fear not man, whoſe heart is filled with cruelty, neither am I diſmayed at the power of thoſe that ſeek my Life, for it is in the hands of him that pleads my cauſe (who will ſet up his own Kingdom, and eſtabliſh it in Righteouſneſs, and deſtroy them that will not ſerve and obey him,) let him do what he pleaſeth with it: Glory to him in the higheſt; Hale<g ref="char:EOLhyphen"/>lujah. George Fox <hi>the younger.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>From, the</hi> Pallace-yard Gate-houſe <date>30th 11th Month 3 1660.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
